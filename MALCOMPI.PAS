@@ -1,0 +1,8 @@
+Unit MalCompiler;
+
+INTERFACE
+
+IMPLEMENTATION
+
+BEGIN
+END.
